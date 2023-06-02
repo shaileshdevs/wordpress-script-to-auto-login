@@ -1,0 +1,1 @@
+# wordpress-script-to-auto-login-admin
